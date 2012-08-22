@@ -1,0 +1,17 @@
+Human Contact Prediction
+========================
+
+General Description: 
+This project is an implementation for predicting human contacts in Python. It has the implementations for several unsupervised contact predictors to infer missing contacts in a mobile social setting by exploiting the known properties of contact graphs. A contact graph is a graph in which nodes are people and edges represent people physical contacts.
+
+Code Input: 
+It uses the Infocom 2005 and 2006 human mobility traces collected by iMotes.
+
+Code Output: 
+It outputs the accuracies of different contact predictors.
+
+Project Goal: 
+The main goal was to predict who is the next person whom you will visit.
+
+Implementation period: 
+July - August 2010.
